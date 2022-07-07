@@ -34,6 +34,6 @@ rl.question('what is your name?', (name) => {
             console.log(`Nama : ${name}`);
             console.log('email salah');
             return rl.close();
-    }
+        }
     });
 });
