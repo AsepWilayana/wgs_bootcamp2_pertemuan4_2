@@ -1,0 +1,24 @@
+{
+  "name": "wgs_bootcamp2_pertemuan4_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "fol": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsepWilayana/wgs_bootcamp2_pertemuan4_2.git"
+  },
+  "author": "ASWIL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsepWilayana/wgs_bootcamp2_pertemuan4_2/issues"
+  },
+  "homepage": "https://github.com/AsepWilayana/wgs_bootcamp2_pertemuan4_2#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
